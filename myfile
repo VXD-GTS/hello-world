@@ -80,9 +80,6 @@
             <p><a href="help-content.html">I have questions about the updated Terms of Service and Privacy Policy</a></p>
           </li>
           <li>
-            <p><a href="help-content.html">End-to-End Encryption</a></p>
-          </li>
-          <li>
             <p><a href="help-content.html">User Guide: Getting Started</a></p>
           </li>
         </ol>
@@ -132,12 +129,11 @@
 </footer>
 <div class="scroll-top-wrapper "> <span class="scroll-top-inner"> <i class="glyphicon glyphicon-triangle-top"></i> </span> </div>
 <!-- Modal --> 
-
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="js/jquery-1.11.3.min.js"></script> 
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <!-- <script src="js/bootstrap.js"></script> --> 
-<script src="js/bootstrap-3.3.7.js"></script> 
+<script src="js/bootstrap-3.3.5.js"></script> 
 <script src="js/modernizr-latest.js"></script> 
 <script src="js/owl.carousel.min.js"></script> 
 <script src="js/st.action-panel.js"></script> 
